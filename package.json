@@ -1,0 +1,17 @@
+{
+  "name": "pnpm-issue-lab",
+  "private": true,
+  "version": "0.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "James Benner <hello@jamesbenner.com> (https://www.jamesbenner.com/)",
+  "license": "BSD-3-Clause",
+  "packageManager": "pnpm@10.19.0",
+  "dependencies": {
+    "meowtastic": "^0.1.0"
+  }
+}
